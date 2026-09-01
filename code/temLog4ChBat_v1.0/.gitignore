@@ -1,0 +1,12 @@
+build/
+sdkconfig
+sdkconfig.old
+managed_components/
+.espressif/
+.clangd/
+compile_commands.json
+*.bin
+*.elf
+*.map
+*.o
+*.a
